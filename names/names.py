@@ -17,7 +17,7 @@ duplicates = []  # Return the list of duplicates in this data structure
 #     for name_2 in names_2:
 #         if name_1 == name_2:
 #             duplicates.append(name_1)
-
+# ---------- Stretch Goal -----------
 class BSTNode:
     def __init__(self, value):
         self.value = value
